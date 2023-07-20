@@ -1,3 +1,8 @@
+This project is an implementation of the symbol table ADT using splay trees with parent references.
+The nodes of the Splay Tree record a parent reference to allow for iterative splay operations
+from the node back up to the root.
+
+
 Build the Java project
 
 To test your work: 
